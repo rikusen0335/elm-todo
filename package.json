@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "elm-live src/Main.elm --path-to-elm=./node_modules/.bin/elm --host=0.0.0.0 --port=3000"
+  },
+  "devDependencies": {
+    "elm-format": "^0.8.3",
+    "elm-live": "^4.0.2"
+  },
+  "dependencies": {
+    "elm": "^0.19.1-3"
+  }
+}
